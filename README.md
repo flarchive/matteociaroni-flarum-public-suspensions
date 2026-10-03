@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of matteociaroni/flarum-public-suspensions.** Not for installation: use [Packagist](https://packagist.org/packages/matteociaroni/flarum-public-suspensions) or the [upstream repository](https://github.com/matteociaroni/flarum-public-suspensions).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/matteociaroni-flarum-public-suspensions/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.5.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/matteociaroni-flarum-public-suspensions/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.5.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-02-01 | `^1.5.0` | [Browse](https://github.com/flarchive/matteociaroni-flarum-public-suspensions/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/matteociaroni-flarum-public-suspensions.json](https://github.com/flarchive/archive-index/blob/main/packages/matteociaroni-flarum-public-suspensions.json)
 
